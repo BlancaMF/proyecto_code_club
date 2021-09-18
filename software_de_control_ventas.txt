@@ -1,0 +1,20 @@
+DESCRIPCION DEL PROYECTO 
+Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas 
+físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+
+EQUIPO RESPONSABLE
+#Nombre del Equipo: Code Club 
+
+#Integrantes:
+1037635821 - Cristian Pereira Sánchez - cristianpsanz@gmail.com
+1193390627 - Juan Manuel Chávez Solarte - juanmanuelchavezsolarte21@gmail.com
+1037524250 - Maycol Alejandro Vásquez Casas - maicolvc88@gmail.com
+1018494359 - David Esteban Urquijo Hernández - davidurquijoh@gmail.com
+21147882 - Blanca Mariela Martínez Fonseca - bmartinez@iedlasvillas.edu.co
+
+#Roles de los Integrantes:
+Desarrollador:
+Analista:
+Product Owner:
+Administrador de BD:
+Scrum Mater:
