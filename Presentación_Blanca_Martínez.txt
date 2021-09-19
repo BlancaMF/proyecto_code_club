@@ -1,0 +1,11 @@
+DESCRIPCION DEL PROYECTO 
+Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas 
+físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
+
+PRESENTACIÓN 
+Nombre: Blanca Mariela Martínez Fonseca
+Documento: 21147882
+Ciudad: Zipaquirá, Cundinamarca
+Ocupación: Docente Tiempo Completo 
+Especialidad: Educación/Tecnología/Informática
+Actualmente: En formación programa MisiónTIC2022, integrante del equipo Code Club. 
